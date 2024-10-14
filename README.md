@@ -2,7 +2,7 @@
 
 ## About nissy325
 
-Hi, I'm an beckend engineer.
+Hi, I'm a backend engineer.
 
 ### my skills
 
